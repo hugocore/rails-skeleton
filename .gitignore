@@ -24,3 +24,6 @@
 
 # Others
 .DS_Store
+/vendor
+/public
+/coverage
